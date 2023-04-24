@@ -27,3 +27,46 @@ scale_fill_discrete = scale_fill_viridis_d
 
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ```
+
+
+```{r}
+Datasbases
+
+
+#Databases for systematic review
+
+# from aws marketplace
+https://www.cochranelibrary.com/
+  
+https://data.cdc.gov/
+  
+https://github.com/Emory-HITI/EMBED_Open_Data
+
+
+```
+
+
+# great example
+```{r}
+https://www.nature.com/articles/s41591-020-01192-7#Sec2
+
+https://nda.nih.gov/oai/image-assessments.html
+
+https://github.com/epierson9/pain-disparities
+
+
+```
+
+research groups
+```{r}
+https://oir.nih.gov/sigs/health-disparities-interest-group
+```
+
+
+Below is a non-exhaustive list of NIH-supported repositories that offer a wide variety of datasets. Browse the variety of repositories supported and select the link provided in the “Access to Data” column for instructions on accessing data from that repository.
+
+```{r}
+https://sharing.nih.gov/accessing-data/accessing-scientific-data
+
+```
+
