@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+*.ASC
+*.XPT
+.DS_Store
